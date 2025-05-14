@@ -28,8 +28,8 @@ Graduated: 2022
 
 ---
 
-![HoangRasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangrasta&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangrasta&layout=compact)](https://github.com/hoangrasta/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangrasta&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangrasta&layout=compact" />
+</p>
 
