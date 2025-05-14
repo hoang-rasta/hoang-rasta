@@ -27,28 +27,27 @@ Graduated: 2022
 - 🌐 LinkedIn: https://www.linkedin.com/in/hoang-rasta/
 
 ---
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hoangrasta&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <!-- Icon row -->
-      <p align="center">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      </p>
-      <!-- Top languages -->
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangrasta&layout=compact&theme=radical" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=hoangrasta&show_icons=true&theme=radical" />
+      </td>
+      <td>
+        <p align="center">
+          <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+        </p>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangrasta&layout=compact&theme=radical" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
