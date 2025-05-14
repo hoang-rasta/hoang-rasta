@@ -29,8 +29,8 @@ Graduated: 2022
 ---
 <p align="center">
   <!-- STATS & TOP LANGS SIDE-BY-SIDE -->
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=hoangrasta&show_icons=true&theme=radical" width="48%" />
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangrasta&layout=compact&theme=radical" width="48%" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=hoangrasta&show_icons=true&theme=radical"/>
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangrasta&layout=compact&theme=radical"/>
 </p>
 
 
