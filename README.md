@@ -28,3 +28,7 @@ Graduated: 2022
 
 ---
 
+![HoangRasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangrasta&show_icons=true&theme=radical)
+
+![HoangRasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangrasta&show_icons=true&theme=radical)
+
