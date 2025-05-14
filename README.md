@@ -39,8 +39,7 @@ Graduated: 2022
     <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangrasta&layout=compact" />
-    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangrasta&layout=compact" />
   </div>
 </p>
 
