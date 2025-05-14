@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Pham Hoang Anh (Hoang Rasta)
 
-<!--
-**hoangrasta/hoangrasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Software Engineer – Graduate of the Military Technical Academy (MTA), Vietnam
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: C#, .NET, JavaScript
+- Web Development: HTML/CSS, Angular, ReactJS
+- Databases: MSSQL, MySQL, PostgreSQL
+- Software Engineering: Agile/Scrum, Object-Oriented Design, Software Testing
+- Tools: Git, Docker, VS Code, Postman
+
+## 📚 Education
+
+**Military Technical Academy (MTA), Hanoi, Vietnam**  
+_Bachelor of Engineering in Software Engineering_  
+Graduated: 2022
+
+## 🌱 Personal Qualities
+
+- Fast learner, adaptable to new technologies and environments
+- Passionate about building impactful, scalable software solutions
+- Diligent and committed: Consistently puts in the effort to tackle challenges, focusing on achieving high-quality results and ensuring long-term success.
+
+## 📫 Contact
+
+- 🌐 LinkedIn: https://www.linkedin.com/in/hoang-rasta/
+
+---
+
